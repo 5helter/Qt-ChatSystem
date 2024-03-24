@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/slapsh.png</file>
+        <file>res/slapsh2.png</file>
+        <file>res/admin.png</file>
+        <file>res/sql.png</file>
+        <file>res/person.png</file>
+        <file>res/touxaing.jpg</file>
+        <file>res/personchecked.png</file>
+        <file>res/nopix.png</file>
+        <file>res/add.png</file>
+        <file>res/addchecked.png</file>
+        <file>res/chatslapsh.jpg</file>
+        <file>res/icon.png</file>
+        <file>res/message.png</file>
+        <file>res/messagechecked.png</file>
+        <file>res/ACDF71807BDCAFF98E7A3E2B99BBB555.jpg</file>
+        <file>res/add2.png</file>
+        <file>res/remain.png</file>
+    </qresource>
+</RCC>

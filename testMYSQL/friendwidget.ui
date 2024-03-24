@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>FriendWidget</class>
+ <widget class="QWidget" name="FriendWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>213</width>
+    <height>102</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>0</width>
+    <height>102</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout"/>
+  <action name="informationaction">
+   <property name="text">
+    <string>查看详细信息</string>
+   </property>
+  </action>
+  <action name="action">
+   <property name="text">
+    <string>删除好友</string>
+   </property>
+  </action>
+  <action name="quitgroupaction">
+   <property name="text">
+    <string>退出或者删除群聊</string>
+   </property>
+  </action>
+  <action name="invitaction">
+   <property name="text">
+    <string>邀请入群</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
